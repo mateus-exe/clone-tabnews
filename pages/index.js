@@ -1,13 +1,4 @@
 function Home() {
-  return <h1>Título</h1>;
+  return <h1>Minha princesa é a melhor do mundo! Eu te amo muitooooooo</h1>;
 }
-
-function teste() {
-  console.log("Teste");
-}
-
-function teste2() {
-  console.log("indentação errada");
-}
-
 export default Home;
